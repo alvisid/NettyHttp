@@ -1,4 +1,4 @@
-//package NettyServer;
+//package NettyExample.NettyServer;
 //
 //import io.netty.buffer.ByteBuf;
 //import io.netty.buffer.Unpooled;
